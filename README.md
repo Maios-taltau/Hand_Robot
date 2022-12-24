@@ -1,7 +1,7 @@
-## Features
-
-- First step run Fingers Detector.py
-- 
+## Important
+Currently this project under development
+## Scribe
+- run Fingers Detector.py
 ## Deployment
 
 To deploy this project run
