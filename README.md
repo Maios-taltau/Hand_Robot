@@ -1,5 +1,4 @@
-## Important
-Currently this project under development
+## Currently this project under development
 ## Scribe
 - run Fingers Detector.py
 ## Deployment
