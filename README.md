@@ -1,6 +1,4 @@
 ## Currently this project under development
-## Scribe
-- run Fingers Detector.py
 ## Deployment
 
 To deploy this project run
